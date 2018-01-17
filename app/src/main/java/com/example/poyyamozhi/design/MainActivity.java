@@ -13,7 +13,6 @@ import android.widget.TextView;
 import spencerstudios.com.bungeelib.Bungee;
 
 public class MainActivity extends AppCompatActivity {
-Bungee bungee;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
