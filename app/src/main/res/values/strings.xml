@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="my">MY</string>
+    <string name="stay">STAY</string>
+    <string name="hotel">Hotels/Home Stay</string>
+    <string name="login">login</string>
+    <string name="signup">Sign up </string>
+    <string name="udaipur">Oberoi UdaiVillas Udaipur</string>
+    <string name="dates">Dates</string>
+    <string name="dates2">Feb 03 - Feb 06</string>
+    <string name="guest">Guests</string>
+    <string name="person">2 Persons</string>
+    <string name="price">Pricing Details</string>
+    <string name="price2">$ 96,000  </string>
+    <string name="next">next</string>
+    <string name="booknow">book now </string>
+    <string name="perday">per day</string>
+    <string name="price3">$ 24,000 </string>
+    <string name="distance">1.5 kilometer \n distance</string>
+    <string name="distance2">Near Prost Pub</string>
+
+</resources>
